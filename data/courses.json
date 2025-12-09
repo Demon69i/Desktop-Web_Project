@@ -1,0 +1,165 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Cybersecurity for Beginners",
+      "category": "Cyber Basics",
+      "category_color": "#2563EB",
+      "thumbnail_url": "https://placehold.co/600x400/1e3a5f/ffffff?text=Cyber+Basics",
+      "short_description": "A foundational course on the principles of cybersecurity.",
+      "long_description": "This comprehensive course introduces you to the fundamental concepts of cybersecurity. You'll learn about common threats, basic security practices, and how to protect yourself and organizations from cyber attacks.",
+      "instructor_name": "Dr. Sarah Chen",
+      "difficulty_level": "Beginner",
+      "created_at": "2025-01-01 00:00:00",
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Introduction to Cybersecurity",
+          "content": "",
+          "duration": "19:08 mins",
+          "video_url": "https://youtu.be/ooJSgsB5fIE?si=qpYsoRCRo63jFCyj"
+        },
+        {
+          "id": 2,
+          "title": "CyberSecurity Certifications",
+          "content": "",
+          "duration": "16:31 mins",
+          "video_url": "https://youtu.be/eO8l70pdVhY?si=DLDS16MS1NPdJjTE"
+        },
+        {
+          "id": 3,
+          "title": "CyberSecurity Certifications",
+          "content": "",
+          "duration": "18:54 mins",
+          "video_url": "https://youtu.be/uk8-jJgu8-I?si=4W7aYsbE2Nc13Mjo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Web App Penetration Testing",
+      "category": "Web Security",
+      "category_color": "#a855f7",
+      "thumbnail_url": "https://placehold.co/600x400/4c1d95/ffffff?text=Web+Security",
+      "short_description": "Discover vulnerabilities in web applications like SQLi, XSS, and CSRF.",
+      "long_description": "Master the art of finding and exploiting web application vulnerabilities. This course covers SQL injection, cross-site scripting, cross-site request forgery, and other common web security issues.",
+      "instructor_name": "Mark Williams",
+      "difficulty_level": "Intermediate",
+      "created_at": "2025-01-02 00:00:00",
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Web Application Architecture",
+          "content": "",
+          "duration": "7:33 mins",
+          "video_url": "https://youtu.be/xv0Be4QfkH0?si=utZWgX8qwwjeqSFT"
+        },
+        {
+          "id": 2,
+          "title": "penetration testing training",
+          "content": "",
+          "duration": "11:05:17 mins",
+          "video_url": "https://youtu.be/wNA4CLG-OSM?si=b0ebR-pRtIq1cRTB"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Network Security Fundamentals",
+      "category": "Network Security",
+      "category_color": "#14b8a6",
+      "thumbnail_url": "https://placehold.co/600x400/134e4a/ffffff?text=Network+Security",
+      "short_description": "Understand the principles of network security and common protocols.",
+      "long_description": "Dive deep into network security concepts including firewalls, intrusion detection systems, VPNs, and secure network architectures. Learn how to protect networks from various threats.",
+      "instructor_name": "Lisa Rodriguez",
+      "difficulty_level": "Intermediate",
+      "created_at": "2025-01-03 00:00:00",
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Introduction to Information Security",
+          "content": "",
+          "duration": "25:41 mins",
+          "video_url": "https://youtu.be/ooDRJ1jzuMY?si=p45IEhWpeybxMvyb"
+        },
+        {
+          "id": 2,
+          "title": "Attack Vectors & Mitigation Strategies",
+          "content": "",
+          "duration": "27:10 mins",
+          "video_url": "https://youtu.be/Rm2rp_wKilo?si=-erRtbic0zvjKpch"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Introduction to Ethical Hacking",
+      "category": "Ethical Hacking",
+      "category_color": "#22c55e",
+      "thumbnail_url": "https://placehold.co/600x400/166534/ffffff?text=Ethical+Hacking",
+      "short_description": "Learn the basics of ethical hacking and penetration testing.",
+      "long_description": "Become an ethical hacker and learn to think like an attacker. This course covers reconnaissance, scanning, exploitation, and reporting in a legal and ethical manner.",
+      "instructor_name": "James Wilson",
+      "difficulty_level": "Beginner",
+      "created_at": "2025-01-04 00:00:00",
+      "lessons": [
+        {
+          "id": 1,
+          "title": "What is Ethical Hacking?",
+          "content": "",
+          "duration": "15 mins",
+          "video_url": "https://youtu.be/f0xGApTclk0?si=mOhs4OmBbhm4sPuO"
+        },
+        {
+          "id": 2,
+          "title": "Ethical Hacking Roadmap",
+          "content": "",
+          "duration": "16:25 mins",
+          "video_url": "https://youtu.be/DaFobdn2uxY?si=QqoZIysQOqetdO1l"
+        },
+        {
+          "id": 3,
+          "title": "How to Become Ethical Hacker",
+          "content": "",
+          "duration": "8:02 mins",
+          "video_url": "https://youtu.be/XOtO_AKUESg?si=KrYQHhX1Jhv-JEow"
+        },
+        {
+          "id": 4,
+          "title": "What is Firewall and Ransomware",
+          "content": "",
+          "duration": "8:50 mins",
+          "video_url": "https://youtu.be/B7dZKDYIJFY?si=CG8DeQ9uaOoWY3aO"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Linux Fundamental ",
+      "category": "Basic information ",
+      "category_color": "#f97316",
+      "thumbnail_url": "",
+      "short_description": "Linux fundamentals focus on the basic understanding of the Linux operating system, its file system, permissions, and essential commands used to manage files and processes efficiently.\n",
+      "long_description": "Linux fundamentals cover the basic concepts and commands of the Linux operating system, including its open-source nature, file system structure, user and permission management, and command-line operations. Understanding Linux fundamentals helps users navigate the system efficiently, manage files and processes, and perform essential administrative tasks, forming a strong foundation for system administration and software development.",
+      "instructor_name": "TryHackMe",
+      "difficulty_level": "Beginner",
+      "created_at": "2025-12-04 10:24:53",
+      "lessons": [
+        {
+          "id": 1,
+          "title": "Part 1",
+          "content": "",
+          "duration": "30:56 mins",
+          "video_url": "https://youtu.be/kPylihJRG70?si=IXfJuTPmDSrC1Fqn"
+        },
+        {
+          "id": 2,
+          "title": "part 2",
+          "content": "",
+          "duration": "32:04 mins",
+          "video_url": "https://youtu.be/7Zt2Mp2IeBI?si=MxCi4NXiYUJSQikX"
+        }
+      ]
+    }
+  ]
+}
