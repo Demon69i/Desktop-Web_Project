@@ -1,3 +1,9 @@
+# Desktop_&_Web_Project
+This Project Live  - https://web347.free.nf/
+
+- Admin: admin@cyberlearn.com / password
+- Student: emon@cyberlearn.com / password
+
 # CyberLearn - Learning Management System
 
 ## Overview
@@ -40,12 +46,10 @@ CyberLearn is a comprehensive online learning management system web application 
 
 ### Technology Stack
 
-- **Frontend**: HTML5, CSS3, Vanilla JavaScript
+- **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP 8.3
 - **Database**: JSON files
-- **Fonts**: Inter, Open Sans (Google Fonts)
-- **Server**: PHP built-in development server
-
+  
 ### Design System
 
 - **Colors**:
@@ -64,6 +68,4 @@ CyberLearn is a comprehensive online learning management system web application 
 
 ## Default Test Accounts
 
-- Admin: admin@cyberlearn.com / password
-- Student: emon@cyberlearn.com / password
-# Desktop_&_Web_Project
+
